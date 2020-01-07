@@ -1,0 +1,6 @@
+[submodule "obiekt_a_mod"]
+	path = obiekt_a_mod
+	url = https://github.com/postep/obiekt_a_mod.git
+[submodule "obiekt_b"]
+	path = obiekt_b
+	url = https://github.com/postep/obiekt_b.git
